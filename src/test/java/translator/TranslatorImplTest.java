@@ -1,6 +1,6 @@
 package translator;
 
-import translator.business.Translator;
+import  translator.business.Translator;
 import translator.business.TranslatorImpl;
 import translator.entities.Language;
 import org.testng.Assert;
@@ -24,6 +24,21 @@ public class TranslatorImplTest {
         String response = translator.translate(from, to, "Hello World");
         Assert.assertEquals(response, "Hola Mundo");
     }
+    @Test(invocationCount = 100 ,threadPoolSize = 5)
+    public void testTranslateSpaces() throws Exception{
+        String response = translator.translate(from, to, "Hello    World");
+        Assert.assertEquals(response, "Hola Mundo");
 
+    }
+    @Test(invocationCount = 100 ,threadPoolSize = 5)
+    public void testTranslateMayus() throws Exception{
+        String response = translator.translate(from, to, "HELLO WORLD");
+        Assert.assertEquals(response, "HOLA MUNDO");
+    }
+    @Test(invocationCount = 100, threadPoolSize = 5)
+    public void testTranslateQuotes() throws Exception {
+        String response = translator.translate(from, to, "Hello \" World");
+        Assert.assertEquals(response, "Hola Mundo");
+    }
 
 }
