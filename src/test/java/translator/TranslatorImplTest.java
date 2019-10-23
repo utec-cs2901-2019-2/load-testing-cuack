@@ -7,6 +7,10 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+
 public class TranslatorImplTest {
     Translator translator;
     Language from;
@@ -50,5 +54,27 @@ public class TranslatorImplTest {
 
         response = translator.translate(from, to, "mixology");
         Assert.assertEquals(response, "la mixología");	
+    }
+    @Test(invocationCount = 100, threadPoolSize = 5)
+    public void isNotEmpty() throws Exception{
+        String response = translator.translate(from, to, "Hello World");
+        Assert.assertFalse(response.isEmpty());
+    }
+    @Test(invocationCount = 100, threadPoolSize = 5)
+    public void testFiles()throws Exception{
+        File testFile = new File("");
+        BufferedReader bufferTest = new BufferedReader(new FileReader(testFile));
+
+        File resultFile = new File("");
+        BufferedReader bufferResult = new BufferedReader(new FileReader(resultFile));
+
+        String test = bufferTest.readLine();
+        String result = bufferResult.readLine();
+        while ( (test != null) &&  (result != null)){
+            String response = translator.translate(from, to, test);
+            Assert.assertEquals(response, result);
+            test = bufferTest.readLine();
+            result = bufferResult.readLine();
+        }
     }
 }
