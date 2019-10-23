@@ -62,10 +62,10 @@ public class TranslatorImplTest {
     }
     @Test(invocationCount = 100, threadPoolSize = 5)
     public void testFiles()throws Exception{
-        File testFile = new File("");
+        File testFile = new File("test.txt");
         BufferedReader bufferTest = new BufferedReader(new FileReader(testFile));
 
-        File resultFile = new File("");
+        File resultFile = new File("result.txt");
         BufferedReader bufferResult = new BufferedReader(new FileReader(resultFile));
 
         String test = bufferTest.readLine();
