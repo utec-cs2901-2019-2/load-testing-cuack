@@ -1,8 +1,8 @@
-package calculator;
+package translator;
 
-import calculator.business.Translator;
-import calculator.business.TranslatorImpl;
-import calculator.entities.Language;
+import translator.business.Translator;
+import translator.business.TranslatorImpl;
+import translator.entities.Language;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
