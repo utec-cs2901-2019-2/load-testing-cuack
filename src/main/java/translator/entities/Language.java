@@ -1,4 +1,4 @@
-package calculator.entities;
+package translator.entities;
 
 public class Language {
     private String id;

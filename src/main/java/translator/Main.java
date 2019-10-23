@@ -1,4 +1,4 @@
-package calculator;
+package translator;
 
 public class Main {
     public static void main(String args[]){

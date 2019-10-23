@@ -1,8 +1,8 @@
-package calculator;
+package translator;
 
-import calculator.business.Translator;
-import calculator.business.TranslatorImpl;
-import calculator.entities.Language;
+import translator.business.Translator;
+import translator.business.TranslatorImpl;
+import translator.entities.Language;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -25,5 +25,15 @@ public class TranslatorImplTest {
         Assert.assertEquals(response, "Hola Mundo");
     }
 
+    @Test(invocationCount = 100, threadPoolSize = 5)
+    public void testTranslateRareWords() throws Exception {
+        String response = translator.translate(from, to, "queue");
+        Assert.assertEquals(response, "cola")
 
+        String response = translator.translate(from, to, "bequeath");
+        Assert.assertEquals(response, "legar");
+
+        String response = translator.translate(from, to, "mixology");
+        Assert.assertEquals(response, "la mixología");	
+    }
 }
