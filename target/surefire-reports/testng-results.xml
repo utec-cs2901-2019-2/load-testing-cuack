@@ -2,811 +2,811 @@
 <testng-results skipped="0" failed="0" total="100" passed="100">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="56" started-at="2019-10-23T16:44:26Z" finished-at="2019-10-23T16:44:26Z">
+  <suite name="Surefire suite" duration-ms="72" started-at="2019-10-23T16:53:14Z" finished-at="2019-10-23T16:53:14Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="56" started-at="2019-10-23T16:44:26Z" finished-at="2019-10-23T16:44:26Z">
+    <test name="Surefire test" duration-ms="72" started-at="2019-10-23T16:53:14Z" finished-at="2019-10-23T16:53:14Z">
       <class name="calculator.TranslatorImplTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="8" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="4" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="4" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="4" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="2" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="2" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="4" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="2" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="6" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="3" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="7" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="2" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="4" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="5" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
-          <reporter-output>
-          </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="2" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="2" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="2" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="2" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="5" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="5" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="3" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="6" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="7" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="6" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="11" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="6" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="5" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="3" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="4" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="2" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="4" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="2" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="4" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="2" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
+          <reporter-output>
+          </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="3" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="5" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="3" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="4" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="3" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="2" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="2" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="8" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="8" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
+          <reporter-output>
+          </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="9" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="1" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="2" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTranslateDummy -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testTranslateDummy()[pri:0, instance:calculator.TranslatorImplTest@2752f6e2]" name="testTranslateDummy" duration-ms="0" started-at="2019-10-23T11:44:26Z" finished-at="2019-10-23T11:44:26Z">
+        </test-method> <!-- testTranslateDummy -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculator.TranslatorImplTest@7c30a502]" name="setUp" is-config="true" duration-ms="0" started-at="2019-10-23T11:53:14Z" finished-at="2019-10-23T11:53:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTranslateDummy -->
+        </test-method> <!-- setUp -->
       </class> <!-- calculator.TranslatorImplTest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->

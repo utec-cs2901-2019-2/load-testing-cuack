@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: calculator.TranslatorImplTest
 -------------------------------------------------------------------------------
-Tests run: 100, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.388 s - in calculator.TranslatorImplTest
+Tests run: 100, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.366 s - in calculator.TranslatorImplTest
