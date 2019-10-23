@@ -8,7 +8,7 @@ public class TranslatorImpl implements Translator {
 
   private String apiKey;
 
-  TranslatorImpl() {
+  public TranslatorImpl() {
     loadEnv();
   }
 
