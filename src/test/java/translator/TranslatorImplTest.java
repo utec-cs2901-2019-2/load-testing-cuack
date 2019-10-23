@@ -15,8 +15,8 @@ public class TranslatorImplTest {
     @BeforeMethod
     public void setUp() throws Exception {
         translator = new TranslatorImpl();
-        from = new Language("EN", "English");
-        to = new Language("ES", "Spanish");
+        from = new Language("EN", "en");
+        to = new Language("ES", "es");
     }
 
     @Test(invocationCount = 100, threadPoolSize = 5)
@@ -28,12 +28,12 @@ public class TranslatorImplTest {
     @Test(invocationCount = 100, threadPoolSize = 5)
     public void testTranslateRareWords() throws Exception {
         String response = translator.translate(from, to, "queue");
-        Assert.assertEquals(response, "cola")
+        Assert.assertEquals(response, "cola");
 
-        String response = translator.translate(from, to, "bequeath");
+        response = translator.translate(from, to, "bequeath");
         Assert.assertEquals(response, "legar");
 
-        String response = translator.translate(from, to, "mixology");
+        response = translator.translate(from, to, "mixology");
         Assert.assertEquals(response, "la mixología");	
     }
 }
