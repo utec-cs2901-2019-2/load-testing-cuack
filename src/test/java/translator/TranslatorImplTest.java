@@ -40,5 +40,16 @@ public class TranslatorImplTest {
         String response = translator.translate(from, to, "Hello \" World");
         Assert.assertEquals(response, "Hola Mundo");
     }
+    @Test(invocationCount = 100, threadPoolSize = 5)
+    public void testTranslateRareWords() throws Exception {
+        String response = translator.translate(from, to, "queue");
+        Assert.assertEquals(response, "cola")
 
+        String response1 = translator.translate(from, to, "bequeath");
+        Assert.assertEquals(response1, "legar");
+
+
+        String response2 = translator.translate(from, to, "mixology");
+        Assert.assertEquals(response2, "la mixología");
+    }
 }
