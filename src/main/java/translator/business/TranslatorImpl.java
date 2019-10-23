@@ -32,12 +32,15 @@ public class TranslatorImpl implements Translator {
      }
 
   public String translate(Language from, Language to, String text) {
-        URL url = new URL(getRequestUrl(text, from.getName(), to.getName()));
-        HttpURLConnection con = (HttpURLConnection) url.openConnection();
-        con.setRequestMethod("GET");
-        String response = con.getResponseMessage();
-
-
-        return response;
+        try {
+            URL url = new URL(getRequestUrl(text, from.getName(), to.getName()));
+            HttpURLConnection con = (HttpURLConnection) url.openConnection();
+            con.setRequestMethod("GET");
+            String response = con.getResponseMessage();
+            return response;
+        }
+        catch(Exception e) {
+            return "";
+        }
   }
 }
