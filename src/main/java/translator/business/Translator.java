@@ -1,6 +1,6 @@
-package calculator.business;
+package translator.business;
 
-import calculator.entities.Language;
+import translator.entities.Language;
 
 public interface Translator {
 

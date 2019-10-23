@@ -1,6 +1,6 @@
-package calculator.business;
+package translator.business;
 
-import calculator.entities.Language;
+import translator.entities.Language;
 import io.github.cdimascio.dotenv.Dotenv;
 
 public class TranslatorImpl implements Translator {
