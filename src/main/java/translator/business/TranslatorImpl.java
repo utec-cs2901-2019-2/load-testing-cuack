@@ -1,6 +1,6 @@
 package translator.business;
 
-import io.github.cdimascio.dotenv.Dotenv;
+import  io.github.cdimascio.dotenv.Dotenv;
 import translator.entities.Language;
 
 public class TranslatorImpl implements Translator {
@@ -8,7 +8,7 @@ public class TranslatorImpl implements Translator {
   private String apiKey;
 
   TranslatorImpl() {
-    loadEnv();
+    loadEnv(); 	
   }
 
   private void loadEnv() {
