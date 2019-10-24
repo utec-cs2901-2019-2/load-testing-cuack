@@ -1,6 +1,9 @@
 package translator.business;
 
 import io.github.cdimascio.dotenv.Dotenv;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.net.*;
 import translator.entities.Language;
 
@@ -52,6 +55,7 @@ public class TranslatorImpl implements Translator {
     } catch (Exception e) {
       return "";
     }
+    return null;
   }
 
   public String translate(Language from, Language to, String text) {
